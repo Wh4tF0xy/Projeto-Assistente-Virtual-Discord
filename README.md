@@ -1,4 +1,5 @@
 Projeto | Assistente Virtual - Discord
+
 ⚠️ Projeto em desenvolvimento ⚠️
 
 ✅ Uso do Bot
